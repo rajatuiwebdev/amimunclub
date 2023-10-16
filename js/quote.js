@@ -1,20 +1,20 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Array of quotes
     const quotes = [
-      "Any man worth his salt will stick up for what he believes right, <br>but it takes a slightly better man to acknowledge instantly and without reservation <br> that he is in error. -Andrew Jackson",
-      "A leader is one who knows the way, goes the way and shows the <br> way. —John C. Maxwell",
-      "Leadership is the capacity to translate a vision into <br> reality. —Warren Bennis",
-      "There are three essentials to leadership: humility, clarity and <br> courage. —Chan Master Fuchan Yuan",
-      "Do not follow where the path may lead. Go instead where there is no path and <br> leave a trail. —Ralph Waldo Emerson",
-      "Great leaders are not defined by the absence of weakness, but rather by the <br> presence of clear strengths. —John Peter Zenger",
-      "More than ever before in human history, we share a common destiny. We can <br>master it only if we face it together. And that, my friends,<br> is why we have the United Nations. -Kofi Annan",
-      "Innovation distinguishes between a leader and a follower. -Steve Jobs",
-      "The very essence of leadership is that you have to have vision. You can't blow <br>an uncertain trumpet. -Theodore M. Hesburgh",
-      "You gain strength, courage and confidence by every experience in which you really stop<br> to look fear in the face. You must do the thing you think you cannot do. -Eleanor Roosevelt",
-      "In matters of style, swim with the current; in matters of principle,<br> stand like a rock. -Thomas Jefferson",
-      "Never doubt that a small group of thoughtful, concerned citizens can<br> change the world. Indeed it is the only thing that ever has. -Margeret Mead",
-      "A genuine leader is not a searcher for consensus but a molder<br> of consensus. -Martin Luther King Jr.",
-      "It is not the strongest of the species that survive, nor the most intelligent,<br> but the one most responsive to change. -Charles Darwin"
+      "Any man worth his salt will stick up for what he believes right, <br>but it takes a slightly better man to acknowledge <br> instantly and without reservation that he is in error.<br> -Andrew Jackson",
+      "A leader is one who knows the way,<br> goes the way and shows the way.<br> —John C. Maxwell",
+      "Leadership is the capacity to<br> translate a vision into reality.<br> —Warren Bennis",
+      "There are three essentials to leadership:<br> humility, clarity and courage.<br> —Chan Master Fuchan Yuan",
+      "Do not follow where the path may lead.<br> Go instead where there is no path and leave a trail.<br> —Ralph Waldo Emerson",
+      "Great leaders are not defined by the absence of weakness,<br> but rather by the presence of clear strengths.<br> —John Peter Zenger",
+      "More than ever before in human history, we share a common destiny.<br> We can master it only if we face it together.<br> And that, my friends, is why we have the United Nations.<br>  -Kofi Annan",
+      "Innovation distinguishes between a leader and a follower.<br>  -Steve Jobs",
+      "The very essence of leadership is that you have to have vision.<br>  You can't blow an uncertain trumpet.<br> -Theodore M. Hesburgh",
+      "You gain strength, courage and confidence by every experience in which you really stop<br> to look fear in the face. You must do the thing you think you cannot do.<br> -Eleanor Roosevelt",
+      "In matters of style, swim with the current;<br> in matters of principle,stand like a rock.<br> -Thomas Jefferson",
+      "Never doubt that a small group of thoughtful, concerned citizens can change the world.<br> Indeed it is the only thing that ever has.<br> -Margeret Mead",
+      "A genuine leader is not a searcher for consensus<br> but a molder of consensus.<br> -Martin Luther King Jr.",
+      "It is not the strongest of the species that survive,<br> nor the most intelligent,<br> but the one most responsive to change.<br> -Charles Darwin"
     ];
   
     // Get the element with the class "random-quote"
