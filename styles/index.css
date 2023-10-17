@@ -76,6 +76,11 @@
     color: #003C73;
     font-weight: bold;
     background-color: transparent;
+    cursor: pointer;
+}
+.card-lm-amimun button:hover{
+    background-color: #003C73;
+    color: white;
 }
 hr{
     margin-top: 50px;
