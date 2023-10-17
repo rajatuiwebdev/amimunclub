@@ -15,10 +15,16 @@
         <link rel="stylesheet" href="styles/flipdown/flipdown.css">
         <script type="text/javascript" src="js/flipdown/flipdown.js"></script>
         <script type="text/javascript" src="js/main.js"></script>
-        <script type="text/javascript" src="js/quote.js"></script>
+        <script type="text/javascript" src="js/quote.js"></script>  
         <link rel="stylesheet" href="styles/index.css">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     </head>
     <body>
+        <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+        <script>
+            AOS.init();
+          </script>
         <input type="checkbox" id="main-navigation-toggle" class="btn btn--close" title="Toggle main navigation" />
         <label for="main-navigation-toggle">
         <span></span>
@@ -89,7 +95,8 @@
             </div>
         </nav>
         <div class="amimun-hero">
-            <h1>"PAX PER PRAXIS" : Peace Through Action</h1>
+
+            <h1 data-aos="fade-up">"PAX PER PRAXIS" : Peace Through Action</h1>
             <img id="pc" src="images/main-banner.png" alt="">
             <img id="mobile" src="images/globe.png" alt="">
         </div>
